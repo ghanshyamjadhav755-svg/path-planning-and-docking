@@ -1,5 +1,13 @@
 # ROS2 Humble -- Path Planning & Docking (Simulation)
 
+🎥 Demo Videos
+Path Planning (Nav2 + Regulated Pure Pursuit Controller)
+
+https://youtu.be/1kwWOEIahR0?si=epQHa5F5BqMiKqGi
+
+AprilTag-Based Docking
+
+https://youtu.be/pg-8IbTYcNY?si=yKqTrpMgpfvJQGif
 ## Clone & Build
 
 ``` bash

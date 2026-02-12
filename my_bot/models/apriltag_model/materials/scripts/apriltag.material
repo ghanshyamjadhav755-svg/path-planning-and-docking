@@ -1,0 +1,13 @@
+material Apriltag/Tag0
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture tag36h11_0.png  # Relative to materials/textures/
+      }
+    }
+  }
+}
